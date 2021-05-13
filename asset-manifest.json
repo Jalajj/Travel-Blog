@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Travel-Blog/static/css/main.2013c9a2.chunk.css",
+    "main.js": "/Travel-Blog/static/js/main.ad707c33.chunk.js",
+    "main.js.map": "/Travel-Blog/static/js/main.ad707c33.chunk.js.map",
+    "runtime-main.js": "/Travel-Blog/static/js/runtime-main.6cb5fe84.js",
+    "runtime-main.js.map": "/Travel-Blog/static/js/runtime-main.6cb5fe84.js.map",
+    "static/js/2.07c3d220.chunk.js": "/Travel-Blog/static/js/2.07c3d220.chunk.js",
+    "static/js/2.07c3d220.chunk.js.map": "/Travel-Blog/static/js/2.07c3d220.chunk.js.map",
+    "index.html": "/Travel-Blog/index.html",
+    "static/css/main.2013c9a2.chunk.css.map": "/Travel-Blog/static/css/main.2013c9a2.chunk.css.map",
+    "static/js/2.07c3d220.chunk.js.LICENSE.txt": "/Travel-Blog/static/js/2.07c3d220.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Travel-Blog/static/media/img-8.fabdf94d.jpg",
+    "static/media/video-1.59e75226.mp4": "/Travel-Blog/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cb5fe84.js",
+    "static/js/2.07c3d220.chunk.js",
+    "static/css/main.2013c9a2.chunk.css",
+    "static/js/main.ad707c33.chunk.js"
+  ]
+}
